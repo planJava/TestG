@@ -7,6 +7,7 @@ public class TestGC {
 		System.out.println("I m new Feature");
 
 		System.out.println();
+		System.out.println("agan");
 	}
 
 }
